@@ -24,6 +24,14 @@ I'm building my career in DevOps through hands-on practice, technical documentat
 
 ### 📂 My Projects
 
+### 1. Linux Administration Labs
+
+**Repository:** [linux-admin-labs](https://github.com/Divakarrepo/linux-admin-labs)
+
+* Practised Linux file operations, including creating, copying, renaming, and deleting files.
+* Verified backup integrity using `diff`.
+* Documented lab execution results and terminal screenshots.
+* Maintained hands-on learning documentation using GitHub.
 
 
 ### 📚 My Learning Approach
