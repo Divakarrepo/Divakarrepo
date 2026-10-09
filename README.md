@@ -32,6 +32,7 @@ I'm building my career in DevOps through hands-on practice, technical documentat
 * Verified backup integrity using `diff`.
 * Documented lab execution results and terminal screenshots.
 * Maintained hands-on learning documentation using GitHub.
+* Practised Linux file permissions using `chmod`, `ls -l`, and `stat`, including numeric and symbolic permission changes.
 
 
 ### 📚 My Learning Approach
